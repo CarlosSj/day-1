@@ -13,6 +13,12 @@ header{ background-color: purple;
 	padding: 16px
 }
 
+.jerry {
+	width: 30%;
+	margin-left: 350px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
 nav{ background-color: gold;
 	padding: 16px
 }
@@ -31,8 +37,9 @@ h3 {
 }
 
 img {
-	width: 101%;
+	width: 100%;
 	margin-top: 20px;
+	
 }
 
 footer { 
